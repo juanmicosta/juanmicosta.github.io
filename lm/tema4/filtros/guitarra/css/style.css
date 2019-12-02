@@ -1,0 +1,22 @@
+
+#img{
+	display:block;
+	width:300px;
+	filter:grayscale(1);
+	}
+#img2{
+	display:block;
+	width:300px;
+	filter:invert(1);
+}
+#img3{
+	display:block;
+	width:300px;
+	filter: saturate(250%);
+	}
+#img4{
+	display:block;
+	width:300px;
+	filter: sepia(100%);
+	}
+
