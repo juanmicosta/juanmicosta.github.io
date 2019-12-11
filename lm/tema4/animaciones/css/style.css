@@ -1,0 +1,36 @@
+img {
+    width: 100px;
+}
+
+#prueba1:hover{
+	display:inline;
+	width:200px;
+	animation:myAnimation 2s ease 1s 3 alternate forwards;
+}
+#prueba2:hover{
+	display:inline;
+	width:200px;
+	animation:myAnimation2 2s ease 1s 3 alternate forwards;
+}
+#prueba3:hover{
+	display:inline;
+	width:200px;
+	animation:myAnimation3 2s ease 1s 3 alternate forwards
+}
+
+
+@keyframes myAnimation {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@keyframes myAnimation2 {
+    100% {
+        transform: translate(500px);
+    }
+}
+@keyframes myAnimation3 {
+    100% {
+        transform: translate(500px) rotate(360deg);
+    }
+}
