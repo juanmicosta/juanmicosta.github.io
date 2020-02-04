@@ -1,0 +1,37 @@
+#header1{
+	width:100vw;
+	height:100px;
+	border:1px solid #0000FF;
+	background:#8e24aa;
+	}
+.menu{
+	width:100vw;
+	height:60px;
+	border:1px solid #0000FF;
+	background:#ba68c8;
+	margin-top:0px;
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style:none;
+	float:left;
+}
+
+.menu ul li a{
+	text-decoration:none;
+	padding: 10px 12px;
+	color:white;
+}
+	
+.container{
+	background:#e1bee7;
+	
+}
+	
+.footer{
+
+margin-top:700px;
+
+}	

@@ -1,0 +1,36 @@
+
+#marcas{
+	width:100vw;
+	height:50px;
+	border:1px solid #0000FF;
+	background:#7b1fa2;
+	padding:0px;
+	margin:0px;
+}
+.temas:hover{
+	
+}
+.container{
+	background:#e1bee7;
+}
+.menu{
+}
+.menu ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+.menu ul li{
+	display:inline-block;
+	
+}
+.menu ul li a{
+	color:white;
+	background:#7b1fa2;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+}
+.menu ul li a:hover{
+	background-color:#ab47bc;
+}
