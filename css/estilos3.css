@@ -1,0 +1,52 @@
+body {
+	background:#e1bee7;
+}
+
+.head{
+	text-align:center;
+	width:100vw;
+	height:50px;
+	border:1px solid #0000FF;
+	background:#7b1fa2;
+	padding:0px;
+	margin:0px;
+	color:white;
+}
+.image{
+	justify-content:center;
+	align-items:center;
+	
+}
+.menu{
+}
+.menu ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+.menu ul li{
+	display:inline-block;
+	
+}
+.menu ul li a{
+	color:white;
+	background:#7b1fa2;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+}
+.menu ul li a:hover{
+	background-color:#ab47bc;
+}
+
+.notice{
+	background:#7b1fa2;
+	text-align:center;
+	color:white;
+}
+
+.notice2{
+	background:#7b1fa2;
+	text-align:center;
+	color:white;
+}
